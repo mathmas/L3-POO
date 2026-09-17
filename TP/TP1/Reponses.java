@@ -1,4 +1,4 @@
-public class ex {
+public class Reponses {
     /*
      * Exercice 1:
      * 1. Vrai
@@ -14,10 +14,12 @@ public class ex {
      * 13: 1
      * 14: 1
      * 15: 3
-     */
-
-    /**
-     * Complexe
+     * 
+     * Exercice 5:
+     * 43: "(3,5)"
+     * 46: "(22,11)"
+     * 50: "(6,17)"
+     * 53: "(33,33)"
      */
 
 }
